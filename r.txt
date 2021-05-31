@@ -1,0 +1,5 @@
+pyworld
+tqdm
+librosa
+tensorboardX
+tensorboard
